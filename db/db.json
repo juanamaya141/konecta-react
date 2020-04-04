@@ -1,0 +1,26 @@
+{
+    "products": [
+        { 
+            "id": 1, 
+            "name": "json-server", 
+            "reference": "typicode",
+            "price": 50,
+            "weight": 20,
+            "category": "Comida",
+            "stock": 5,
+            "created_at": "2019-12-31",
+            "sold_at": "2019-12-31"
+        },
+        { 
+            "id": 2, 
+            "name": "json-server", 
+            "reference": "typicode",
+            "price": 50,
+            "weight": 20,
+            "category": "Comida",
+            "stock": 5,
+            "created_at": "2019-12-31",
+            "sold_at": "2019-12-31"
+        }
+    ]
+}
