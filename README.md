@@ -1,4 +1,4 @@
-# Konecta
+# Konecta-react
 ## aplicación hecha para la prueba técnica de la empresa conecta
 author: Juan David Amaya
 
