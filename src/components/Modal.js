@@ -34,7 +34,8 @@ class Modal extends React.Component{
                                     <label>Categoria</label>
                                     <select value={product.category} onChange={onChange} name="category" className="form-control" required>
                                         <option value=""></option>
-                                        <option value="hola">hola</option>
+                                        <option value="hola">comida</option>
+                                        <option value="hola">aseo</option>
                                     </select>
                                 </div>
                                 <div className="form-group">
