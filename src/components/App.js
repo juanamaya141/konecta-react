@@ -23,7 +23,7 @@ class App extends React.Component{
         return(
             <React.Fragment>
                 <NotificationSystem ref={this.notificationSystem} />
-                <Crud />
+                <Crud notification={this.addNotification}/>
             </React.Fragment>
         );
     }
